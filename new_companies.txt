@@ -1,0 +1,603 @@
+Placer.ai
+Matillion
+Benchling
+Axon
+Rokt
+Vertex
+Jamf
+SumUp
+Hyperproof
+Hootsuite
+Adverity
+Airwallex
+Redaptive,
+FreshBooks
+Couchbase
+Upland
+Encoding issue: Software
+Aspire
+Deel
+Oracle
+Make
+OwnBackup
+Airbase
+data.world
+Gartner
+ZipRecruiter
+Checkr,
+Yokoy
+Coconut
+Encoding issue: Software
+Virtuous
+Rootstock
+Encoding issue: Software
+Muck
+MacroFab
+Funnel
+Orum
+DataSnipper
+Stampli
+Relay
+Open
+SiriusXM
+SentinelOne
+iCapital
+The
+Encoding issue: Corporation
+Bloomberg
+Encoding issue: Industry Group
+Attentive
+Smartsheet
+runZero
+Seamless.AI
+EcoVadis
+Vantage
+Veeva
+HeadSpin
+FICO
+Elsevier
+CHEQ
+Drata
+Absolute
+Encoding issue: Security
+Emarsys
+Empower
+Unily
+Open
+Fastly
+Encoding issue: 
+Luminate
+Buildertrend
+Flowcode
+Imply
+Enverus
+GRIN
+Avalara
+Veeam
+Encoding issue: Software
+ServiceNow
+Tide
+Marco
+Encoding issue: Technologies
+Ontra
+Moloco
+WP
+Homebase
+Tekmetric
+Ontotext
+ngrok
+Quorum
+Mozilla
+Remitly
+Bloomreach
+GitKraken
+Sift
+TITAN
+Bloomberg
+Encoding issue: News
+Guesty
+Yardi
+Virtuozzo
+Iterable
+SmartRecruiters
+Voltus
+Vajro
+LaunchDarkly
+Workiva
+ASAPP
+Kantox
+FlutterFlow
+Veza
+Centric
+Encoding issue: Software
+Classy
+project44
+IGT
+Pave
+Brightspeed
+Vidyard
+Avaya
+Flock
+PolyAI
+AHEAD
+Community
+Encoding issue: Brands
+ReminderMedia
+Ncontracts
+Red
+Microchip
+Encoding issue: Technology Inc.
+Redis
+NCC
+Intapp
+Easygenerator
+Luminance
+Secureframe
+Coupa
+AppFolio
+IP
+Spring
+Egress
+Encoding issue: Technologies
+Jellyfish
+Wistia
+StackAdapt
+Super.com
+ZeroFox
+Weights
+Encoding issue: Biases
+Tipalti
+AutoLeap
+Deloitte
+Lodgify
+Multiverse
+Smaato
+Encoding issue: part of Verve â€¦
+Panzura
+Palantir
+Encoding issue: Technologies
+ServiceRocket
+PlayStation
+Vestwell
+Netomi
+Digital.ai
+Teamwork.com
+Huron
+Crowe
+iCIMS
+Olo
+Crunchtime
+Andela
+Splunk
+WeTravel
+Athelas
+TeamSnap
+AppOmni
+Coalition,
+EasyPost
+Merge
+TriNet
+HealthJoy
+Curvature
+Uniphore
+SandboxAQ
+GoLinks
+ReversingLabs
+Bitly
+Mollie
+SUSE
+Zeta
+OnLogic
+Paycor
+Evisort
+Synapse
+Signifyd
+Litmos
+Auvik
+Plaid
+WillowTree
+RLDatix
+Uberall
+Lead
+BlackBerry
+BioRender
+WorkOS
+Mercury
+Tealium
+Encoding issue: 
+JLL
+Liberty
+Encoding issue: Insurance
+SpaceX
+ADP
+Impact
+Encoding issue: Networking, â€¦
+UiPath
+GiveCampus
+Stryker
+Pica8,
+Amplitude
+Celigo
+Procore
+Encoding issue: Technologies
+Featurespace
+HERE
+Encoding issue: Technologies
+MassMutual
+Cority
+Encoding issue: 
+Vena
+HDFC
+Askable
+NexHealth
+Khan
+Bynder
+Analog
+HoneyBook
+CloudTalk
+Bothrs
+Bookipi
+Rafay
+Palo
+Encoding issue: Networks
+Naologic
+Affirm
+Pipe17
+Encoding issue: 
+Quantcast
+Plotly
+Degreed
+Agiloft
+LogicGate
+Intuit
+GoodRx
+Provenir
+Breezy
+Vicinity
+Aurora
+FareHarbor
+Premier
+Peraton
+Houzz
+Cognota
+Cube
+athenahealth
+DICK'S
+Encoding issue: Goods
+SevenRooms
+Owner.com
+Census
+Expedia
+Tegus
+Retail
+Encoding issue: Markets
+Boeing
+Sauce
+Workpath
+Lenovo
+Thoughtful
+Cryptio
+T-Mobile
+Encoding issue: 
+Hewlett
+Encoding issue: Packard â€¦
+Mutiny
+HackerOne
+Anthropic
+Applecart
+MedBridge
+Accenture
+Traba
+Huntress
+Mimecast
+AgentSync
+AudioEye
+Novidea
+Cloud
+Encoding issue: Group
+Ascent
+Grindr
+Encoding issue: 
+ecobee
+Awardco
+InfluxData
+FORM
+Loop
+Block
+Fandom
+Open
+Plenty
+Hillenbrand
+Tripadvisor
+monday.com
+Close
+Kiteworks
+SEON
+Atlas
+e-Core
+PayNearMe
+Zerto
+ZOLL
+Encoding issue: Corporation
+Paylocity
+Flexera
+Propeller
+Liquid
+JMA
+Sisense
+OpenSpace
+Thermo
+Encoding issue: Scientific
+Flyr
+Prompt
+Encoding issue: Therapy â€¦
+Pleo
+AffiniPay
+Orca
+Hiya
+Sonatype
+Seequent
+TaskRay
+Formstack
+Addepar
+Recorded
+Encoding issue: Future
+Zip
+SoFi
+Fidelity
+Encoding issue: Investments
+Shopmonkey
+BMC
+Embark
+Cohere
+Ross
+Leapsome
+CTO.ai
+LHH
+PacBio
+OutboundEngin
+Encoding issue: e
+AT&T
+Juniper
+Encoding issue: Networks
+Simulmedia
+Sayva
+GetYourGuide
+GovCIO
+LaSalle
+Kojo
+Verve
+Lusha
+SpotOn
+Encoding issue: 
+One
+Via
+Makersite
+Bluebeam
+Riot
+CaptivateIQ
+Neostella
+Trulioo
+SOCi,
+Tellent
+Encoding issue: (formerly â€¦
+Coveo
+JMP
+Harbinger
+Ripple
+Notable
+Immutable
+Fundraise
+Lightrun
+Nextech
+Encoding issue: Systems
+Backbase
+OneSignal
+Steer
+Encoding issue: Mechanic â€¦
+Thryv
+eBay
+DataGrail
+Protiviti
+Granite
+Encoding issue: Telecommunicâ€¦
+Kforce
+Banzai
+Coherent
+Happeo
+RecordPoint
+TaxBit
+Zenni
+StarRez,
+Vestmark
+Astranis
+Encoding issue: Technologies
+Veryfi
+Plug
+Encoding issue: Tech Center
+Open
+DoubleVerify
+kimkim
+Uber
+Top
+Guardsquare
+Tropic
+Otter.ai
+N-able
+Newfront
+Flipp
+Talend
+Zocdoc
+Revenue
+Encoding issue: Analytics, Inc.
+Connection
+SourceWhale
+ConstructConn
+Encoding issue: ect
+Quix
+Aptiv
+Customer.io
+The
+Encoding issue: Company â€¦
+BuzzFeed
+LegitScript
+Osano
+Semrush
+Encoding issue: 
+NeuraFlash
+Thanx
+Parcel
+Sunrun
+CMI
+Encoding issue: Group
+Dun
+Encoding issue: Bradstreet
+Figures
+Consensus
+Invisible
+DrFirst,
+Vendr
+Expel
+Zyte
+Itron,
+L3Harris
+Encoding issue: Technologies
+KEYENCE
+Encoding issue: CORPORATION
+Encoding issue: 
+CannDelta
+Encoding issue: Regulatory anâ€¦
+Arcade
+Cameran
+Encoding issue: OxBlue
+Lithic
+Apex
+Warby
+Ashby
+Nordcloud,
+Encoding issue: IBM Company
+MOSTLY
+Emburse
+Orb
+Provi
+Hubtek
+InfoSec
+Embrace
+Avantor
+ECI
+Encoding issue: Solutions
+Northbeam
+Bestpass
+iSpot.tv
+Yext
+Extend
+intenseye
+LogicManager
+Basis
+Encoding issue: Technologies
+Acquia
+HG
+AnyRoad
+CarGurus
+Digital
+BigPanda
+Built
+Blue
+ApplicantPro
+Multilingual
+Encoding issue: Jobs Worldwide
+Nextdoor
+Cloudsmith
+Billd
+Supermetrics
+OpenPhone
+GlobalLogic
+Roblox
+Progyny,
+Aumni
+Butterfly
+Encoding issue: Network, Inc.
+Coastal
+Form3
+Prezi
+Encoding issue: 
+Interac
+Dealpath
+TechnologyAdvi
+Encoding issue: ce
+Gametime
+GoodLeap
+Lenus
+ClassDojo
+Leadfeeder
+PerformLine
+Nektar.ai
+Cato
+Zoox
+Blizzard
+Encoding issue: Entertainment
+Stackline
+Roo
+Availity
+Encoding issue: 
+CaliberMind
+tvScientific
+Tango
+BrainSell
+PSD
+CodeHS
+Trapp
+Encoding issue: Technology
+PDQ
+Nourish
+Totango
+Paychex
+VertiGIS
+numa
+ReadMe
+StrongMind
+Awesome
+Encoding issue: Motive, Inc.
+MarketStar
+Encoding issue: Bulgaria
+Sees
+Encoding issue: Shops Inc
+Covariant
+Picovoice
+Hungryroot
+Salem
+Encoding issue: Group
+ShipBob
+Hawk
+Encoding issue: Systems
+adMarketplace
+Infor
+Prolink
+Kaleyra
+Encoding issue: 
+
+Encoding issue: 
+
+Encoding issue: 
+
+Encoding issue: 
+
+Encoding issue: en                  14 
+Day
+Younite-AI
+Global
+ezCater
+EvolutionIQ
+Jackpot.com
+Parsyl
+Wisdom
+ElevationHR,
+Marble
+VBeyond
+Nebula
+Empower
+Encoding issue: Project
+agile
+Precoa
+Propel,
+Pontosense

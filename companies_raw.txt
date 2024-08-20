@@ -1,0 +1,3782 @@
+195   Placer.ai                Open                 857
+196   Matillion                Open                 503
+197   Benchling                Open                 902
+
+
+
+198   Axon                     Open                 3612
+
+
+
+199   Rokt                     Open                 587
+
+
+
+200   Vertex Inc.              Open                 2337
+
+
+
+201   Jamf                     Open                 2634
+
+
+
+202   SumUp                    Open                 3331
+
+
+
+203   Hyperproof               Open                 164
+
+
+
+204   Hootsuite                Open                 1472
+
+
+
+205   Adverity                 Open                 299
+
+
+
+206   Airwallex                Open                 1302
+
+
+
+207   Redaptive, Inc           Open                 346
+
+208   FreshBooks             Open                  598
+
+
+
+209   Couchbase              Open                  910
+
+
+
+210   Upland                 Open                  1023
+Software
+
+211   Aspire                 Open                  488
+
+
+
+212   Deel                   Open                  7925
+
+
+
+213   Oracle                 Open             191016
+
+
+
+214   Make                   Open                  385
+
+
+
+215   OwnBackup              Open                  1220
+
+
+
+216   Airbase                Open                  447
+
+
+
+217   data.world             Open                  214
+
+
+
+218   Gartner                Open                 23215
+
+
+
+219   ZipRecruiter           Open                  1536
+
+
+
+220   Checkr, Inc.           Open                  1370
+
+
+
+221   Yokoy                  Open                  380
+
+
+
+222   Coconut                Open                  152
+Software
+
+223   Virtuous               Open                  182
+
+
+224   Rootstock                Open                 145
+Software
+
+225   Muck Rack                Open                 318
+
+
+
+226   MacroFab                 Open                 157
+
+
+
+227   Funnel                   Open                 360
+
+
+
+228   Orum                     Open                 151
+
+
+
+229   DataSnipper              Open                 184
+
+
+
+230   Stampli                  Open                 289
+
+
+
+231   Relay                    Open                 241
+
+
+
+232   Open Systems             Open                 435
+
+
+
+233   SiriusXM                 Open                 6417
+
+
+
+234   SentinelOne              Open                 2453
+
+
+
+235   iCapital                 Open                 1255
+
+
+
+236   The AES                  Open                 5754
+Corporation
+
+237   Bloomberg                Open                 1832
+Industry Group
+
+238   Attentive                Open                 1399
+
+
+
+239   Smartsheet               Open                 4075
+
+
+240   runZero                 Open                    57
+
+
+
+241   Seamless.AI             Open                  346
+
+
+
+242   EcoVadis                Open                  1661
+
+
+
+243   Vantage                 Open                    67
+
+
+
+244   Veeva Systems           Open                  8372
+
+
+
+245   HeadSpin                Open                  246
+
+
+
+246   FICO                    Open                  3562
+
+
+
+247   Elsevier                Open                 11475
+
+
+
+248   CHEQ                    Open                  272
+
+
+
+249   Drata                   Open                  619
+
+
+
+250   Absolute                Open                  972
+Security
+
+251   Emarsys                 Open                  863
+
+
+
+252   Empower                 Open                 11742
+
+
+
+253   Unily                   Open                  353
+
+
+
+254   7shifts                 Open                  348
+
+
+
+255   Fastly                  Open                  1327
+
+
+256   Luminate               Open                  174
+
+
+
+257   Buildertrend           Open                  746
+
+
+
+258   Flowcode               Open                  133
+
+
+
+259   Imply                  Open                  237
+
+
+
+260   Enverus                Open                  1472
+
+
+
+261   GRIN                   Open                  249
+
+
+
+262   Avalara                Open                  4604
+
+
+
+263   Veeam                  Open                  5518
+Software
+
+264   ServiceNow             Open                 26235
+
+
+
+265   Tide                   Open                  1855
+
+
+
+266   Marco                  Open                  1119
+Technologies
+
+267   Ontra                  Open                  458
+
+
+
+268   Moloco                 Open                  668
+
+
+
+269   WP Engine              Open                  1130
+
+
+
+270   Homebase               Open                  1040
+
+
+
+271   Tekmetric              Open                  152
+
+
+272   Ontotext                  Open                 119
+
+
+
+273   ngrok                     Open                   77
+
+
+
+274   Quorum                    Open                 429
+
+
+
+275   Mozilla                   Open                 1758
+
+
+
+276   Remitly                   Open                 2796
+
+
+
+277   Bloomreach                Open                 1041
+
+
+
+278   GitKraken                 Open                 100
+
+
+
+279   Sift                      Open                 366
+
+
+
+280   TITAN                     Open                   75
+
+
+
+281   Bloomberg                 Open                 2985
+News
+
+282   Guesty                    Open                 595
+
+
+
+283   Yardi                     Open                 5712
+
+
+
+284   Virtuozzo                 Open                 283
+
+
+
+285   Iterable                  Open                 764
+
+
+
+286   SmartRecruiters           Open                 681
+
+
+
+287   Voltus                    Open                 279
+
+
+288   Vajro                  Open                  106
+
+
+
+289   LaunchDarkly           Open                  511
+
+
+
+290   Workiva                Open                  2742
+
+
+
+291   ASAPP                  Open                  419
+
+
+
+292   Kantox                 Open                  238
+
+
+
+293   FlutterFlow            Open                  111
+
+
+
+294   Veza                   Open                  195
+
+
+
+295   Centric                Open                  921
+Software
+
+296   Classy                 Open                  439
+
+
+
+297   project44              Open                  911
+
+
+
+298   IGT                    Open                 10913
+
+
+
+299   Pave                   Open                  205
+
+
+
+300   Brightspeed            Open                  1538
+
+
+
+301   Vidyard                Open                  215
+
+
+
+302   Avaya                  Open                 13469
+
+
+
+303   Flock Safety           Open                  822
+
+
+304   PolyAI                    Open                  154
+
+
+
+305   AHEAD                     Open                  2914
+
+
+
+306   Community                 Open                  1800
+Brands
+
+307   ReminderMedia             Open                  270
+
+
+
+308   Ncontracts                Open                  321
+
+
+
+309   Red River                 Open                  1077
+
+
+
+310   Microchip                 Open                 16648
+Technology Inc.
+
+311   Redis                     Open                  1017
+
+
+
+312   NCC Group                 Open                  2269
+
+
+
+313   Intapp                    Open                  1215
+
+
+
+314   Easygenerator             Open                  196
+
+
+
+315   Luminance                 Open                  173
+
+
+
+316   Secureframe               Open                  146
+
+
+
+317   Coupa Software            Open                  3073
+
+
+
+318   AppFolio                  Open                  1542
+
+
+
+319   IP Fabric                 Open                  114
+
+
+320   Spring Health             Open                 2277
+
+
+
+321   Egress Software           Open                 330
+Technologies
+
+322   Jellyfish                 Open                 219
+
+
+
+323   Wistia                    Open                 193
+
+
+
+324   StackAdapt                Open                 1116
+
+
+
+325   Super.com                 Open                 1543
+
+
+
+326   ZeroFox                   Open                 843
+
+
+
+327   Weights &                 Open                 262
+Biases
+
+328   Tipalti                   Open                 1219
+
+
+
+329   AutoLeap                  Open                 207
+
+
+
+330   Deloitte                  Open             433253
+
+
+
+331   Lodgify                   Open                 296
+
+
+
+332   Multiverse                Open                 1092
+
+
+
+333   Smaato (Now               Open                 120
+part of Verve â€¦
+
+334   Panzura                   Open                 220
+
+
+
+335   Palantir                  Open                 4041
+Technologies
+
+336   ServiceRocket           Open                 270
+
+
+
+337   PlayStation             Open                 1413
+
+
+
+338   Vestwell                Open                 391
+
+
+
+339   Netomi                  Open                 192
+
+
+
+340   Digital.ai              Open                 943
+
+
+
+341   Teamwork.com            Open                 556
+
+
+
+342   Huron                   Open                 5446
+
+
+
+343   Crowe                   Open                 9053
+
+
+
+344   iCIMS                   Open                 1286
+
+
+
+345   Olo                     Open                 927
+
+
+
+346   Crunchtime              Open                 342
+
+
+
+347   Andela                  Open                 1562
+
+
+
+348   Splunk                  Open                 8860
+
+
+
+349   WeTravel                Open                 223
+
+
+
+350   Athelas                 Open                 333
+
+
+
+351   TeamSnap                Open                 209
+
+352   AppOmni                   Open                 206
+
+
+
+353   Coalition, Inc.           Open                 659
+
+
+
+354   EasyPost                  Open                 374
+
+
+
+355   Merge                     Open                 117
+
+
+
+356   TriNet                    Open                 4450
+
+
+
+357   HealthJoy                 Open                 343
+
+
+
+358   Curvature                 Open                 555
+
+
+
+359   Uniphore                  Open                 907
+
+
+
+360   SandboxAQ                 Open                 262
+
+
+
+361   GoLinks                   Open                   67
+
+
+
+362   ReversingLabs             Open                 316
+
+
+
+363   Bitly                     Open                 390
+
+
+
+364   Mollie                    Open                 835
+
+
+
+365   SUSE                      Open                 2420
+
+
+
+366   Zeta Global               Open                 1781
+
+
+
+367   OnLogic                   Open                 261
+
+
+368   Paycor                   Open                 2917
+
+
+
+369   Evisort                  Open                 194
+
+
+
+370   Synapse                  Open                 194
+
+
+
+371   Signifyd                 Open                 547
+
+
+
+372   Litmos                   Open                 224
+
+
+
+373   Auvik                    Open                 339
+
+
+
+374   Plaid                    Open                 1166
+
+
+
+375   WillowTree               Open                 1125
+
+
+
+376   RLDatix                  Open                 1167
+
+
+
+377   Uberall                  Open                 412
+
+
+
+378   Lead Forensics           Open                 861
+
+
+
+379   BlackBerry               Open                 3019
+
+
+
+380   BioRender                Open                 229
+
+
+
+381   WorkOS                   Open                   56
+
+
+
+382   Mercury                  Open                 816
+
+
+
+383   Tealium                  Open                 613
+
+
+384   JLL                      Open                 87986
+
+
+
+385   Liberty Mutual           Open                 40537
+Insurance
+
+386   SpaceX                   Open                 12749
+
+
+
+387   ADP                      Open                 64649
+
+
+
+388   Impact                   Open                  955
+Networking, â€¦
+
+389   UiPath                   Open                  4840
+
+
+
+390   GiveCampus               Open                    87
+
+
+
+391   Stryker                  Open                 41762
+
+
+
+392   Pica8, Inc.              Open                    27
+
+
+
+393   Amplitude                Open                  866
+
+
+
+394   Celigo                   Open                  735
+
+
+
+395   Procore                  Open                  3983
+Technologies
+
+396   Featurespace             Open                  396
+
+
+
+397   HERE                     Open                  8172
+Technologies
+
+398   MassMutual               Open                 12520
+
+
+
+399   Cority                   Open                  870
+
+
+400   Vena Solutions           Open                  687
+
+
+
+401   HDFC Life                Open                 44817
+
+
+
+402   Askable                  Open                    59
+
+
+
+403   NexHealth                Open                  246
+
+
+
+404   Khan Academy             Open                  1489
+
+
+
+405   Bynder                   Open                  580
+
+
+
+406   Analog Devices           Open                 23482
+
+
+
+407   HoneyBook                Open                  287
+
+
+
+408   CloudTalk                Open                  160
+
+
+
+409   Bothrs                   Open                    16
+
+
+
+410   Bookipi                  Open                    45
+
+
+
+411   Rafay                    Open                  146
+
+
+
+412   Palo Alto                Open                 15842
+Networks
+
+413   Naologic                 Open                    10
+
+
+
+414   Affirm                   Open                  2356
+
+
+
+415   Pipe17                   Open                    34
+
+
+416   Quantcast                 Open                  529
+
+
+
+417   Plotly                    Open                  118
+
+
+
+418   Degreed                   Open                  581
+
+
+
+419   Agiloft                   Open                  298
+
+
+
+420   LogicGate                 Open                  249
+
+
+
+421   Intuit                    Open                 16143
+
+
+
+422   GoodRx                    Open                  1057
+
+
+
+423   Provenir                  Open                  287
+
+
+
+424   Breezy HR                 Open                    42
+
+
+
+425   Vicinity Energy           Open                  261
+
+
+
+426   Aurora Solar              Open                  514
+
+
+
+427   FareHarbor                Open                  774
+
+
+
+428   Premier Inc.              Open                  4404
+
+
+
+429   Peraton                   Open                 12545
+
+
+
+430   Houzz                     Open                  1514
+
+
+
+431   Cognota                   Open                    52
+
+
+432   Cube                      Open                  158
+
+
+
+433   athenahealth              Open                  7624
+
+
+
+434   DICK'S Sporting           Open                 28071
+Goods
+
+435   SevenRooms                Open                  345
+
+
+
+436   Owner.com                 Open                    85
+
+
+
+437   Census                    Open                  176
+
+
+
+438   Expedia Group             Open                 21953
+
+
+
+439   Tegus                     Open                  657
+
+
+
+440   365 Retail                Open                  410
+Markets
+
+441   Boeing                    Open             113125
+
+
+
+442   Sauce Labs                Open                  332
+
+
+
+443   Workpath                  Open                    48
+
+
+
+444   Lenovo                    Open                 41269
+
+
+
+445   Thoughtful AI             Open                    58
+
+
+
+446   Cryptio                   Open                    64
+
+
+
+447   T-Mobile                  Open                 87374
+
+
+448   Hewlett                  Open                 79672
+Packard â€¦
+
+449   Mutiny                   Open                    96
+
+
+
+450   HackerOne                Open                  4718
+
+
+
+451   Anthropic                Open                  631
+
+
+
+452   Applecart                Open                  229
+
+
+
+453   MedBridge                Open                  261
+
+
+
+454   Accenture                Open             564594
+
+
+
+455   Traba                    Open                  123
+
+
+
+456   Huntress                 Open                  415
+
+
+
+457   Mimecast                 Open                  2386
+
+
+
+458   AgentSync                Open                  221
+
+
+
+459   AudioEye                 Open                  159
+
+
+
+460   Novidea                  Open                  229
+
+
+
+461   Cloud Software           Open                 12161
+Group
+
+462   Ascent Cloud             Open                    75
+
+
+
+463   Grindr                   Open                  239
+
+464   ecobee                   Open                  597
+
+
+
+465   Awardco                  Open                  437
+
+
+
+466   InfluxData               Open                  197
+
+
+
+467   FORM                     Open                  381
+
+
+
+468   Loop                     Open                  313
+
+
+
+469   Block                    Open                 15763
+
+
+
+470   Fandom                   Open                  619
+
+
+
+471                            Open
+
+
+
+472   Plenty of Fish           Open                  130
+
+
+
+473   Hillenbrand              Open                  5696
+
+
+
+474   Tripadvisor              Open                  5778
+
+
+
+475   monday.com               Open                  2275
+
+
+
+476   Close                    Open                  134
+
+
+
+477   Kiteworks                Open                  244
+
+
+
+478   SEON                     Open                  277
+
+
+
+479   Atlas                    Open                  1497
+
+
+480   e-Core                  Open                  972
+
+
+
+481   PayNearMe               Open                  225
+
+
+
+482   Zerto                   Open                  509
+
+
+
+483   ZOLL Medical            Open                  5505
+Corporation
+
+484   Paylocity               Open                  5454
+
+
+
+485   Flexera                 Open                  1721
+
+
+
+486   Propeller               Open                  270
+
+
+
+487   Liquid Web              Open                  389
+
+
+
+488   JMA Wireless            Open                  712
+
+
+
+489   Sisense                 Open                  617
+
+
+
+490   OpenSpace               Open                  254
+
+
+
+491   Thermo Fisher           Open                 93647
+Scientific
+
+492   Flyr                    Open                    46
+
+
+
+493   Prompt                  Open                    92
+Therapy â€¦
+
+494   Pleo                    Open                  941
+
+
+
+495   AffiniPay               Open                  592
+
+
+496   Orca Security           Open                  432
+
+
+
+497   Hiya Inc.               Open                  210
+
+
+
+498   Sonatype                Open                  585
+
+
+
+499   Seequent                Open                  655
+
+
+
+500   TaskRay                 Open                    50
+
+
+
+501   Formstack               Open                  220
+
+
+
+502   Addepar                 Open                  955
+
+
+
+503   Recorded                Open                  1098
+Future
+
+504   Zip                     Open                  505
+
+
+
+505   SoFi                    Open                  5204
+
+
+
+506   Fidelity                Open                 75899
+Investments
+
+507   Shopmonkey              Open                  179
+
+
+
+508   BMC Software            Open                  9781
+
+
+
+509   Embark                  Open                  742
+
+
+
+510   Cohere Health           Open                  636
+
+
+
+511   Ross Video              Open                  1239
+
+
+512   Leapsome                  Open                  163
+
+
+
+513   CTO.ai                    Open                    20
+
+
+
+514   LHH                       Open                 13882
+
+
+
+515   PacBio                    Open                  809
+
+
+
+516   OutboundEngin             Open                  177
+e
+
+517   AT&T                      Open             175480
+
+
+
+518   Juniper                   Open                 11810
+Networks
+
+519   Simulmedia                Open                    94
+
+
+
+520   Sayva Solutions           Open                    86
+
+
+
+521   GetYourGuide              Open                  1039
+
+
+
+522   GovCIO                    Open                  2542
+
+
+
+523   LaSalle Network           Open                  627
+
+
+
+524   Kojo                      Open                  141
+
+
+
+525   Verve Group               Open                  341
+
+
+
+526   Lusha                     Open                  347
+
+
+
+527   SpotOn                    Open                  2694
+
+
+528   One Click LCA           Open                 175
+
+
+
+529   Via                     Open                 1564
+
+
+
+530   Makersite               Open                   70
+
+
+
+531   Bluebeam                Open                 583
+
+
+
+532   Riot Games              Open                 6917
+
+
+
+533   CaptivateIQ             Open                 250
+
+
+
+534   Neostella               Open                 210
+
+
+
+535   Trulioo                 Open                 387
+
+
+
+536   SOCi, Inc.              Open                 675
+
+
+
+537   Tellent                 Open                 317
+(formerly â€¦
+
+538   Coveo                   Open                 760
+
+
+
+539   JMP                     Open                 820
+
+
+
+540   Harbinger               Open                 130
+
+
+
+541   Ripple                  Open                 1286
+
+
+
+542   Notable                 Open                 269
+
+
+
+543   Immutable               Open                 318
+
+
+544   Fundraise Up            Open                  172
+
+
+
+545   Lightrun                Open                    78
+
+
+
+546   Nextech                 Open                  456
+Systems
+
+547   Backbase                Open                  1826
+
+
+
+548   OneSignal               Open                  169
+
+
+
+549   Steer by                Open                    91
+Mechanic â€¦
+
+550   Thryv                   Open                  5163
+
+
+
+551   eBay                    Open                 18362
+
+
+
+552   DataGrail               Open                  114
+
+
+
+553   Protiviti               Open                 12290
+
+
+
+554   Granite                 Open                  2283
+Telecommunicâ€¦
+
+555   Kforce Inc              Open                  3582
+
+
+
+556   Banzai                  Open                    87
+
+
+
+557   Coherent                Open                  216
+
+
+
+558   Happeo                  Open                  112
+
+
+
+559   RecordPoint             Open                  101
+
+
+560   TaxBit                   Open                  162
+
+
+
+561   Zenni Optical            Open                  369
+
+
+
+562   StarRez, Inc.            Open                  287
+
+
+
+563   Vestmark                 Open                  384
+
+
+
+564   Astranis Space           Open                  339
+Technologies
+
+565   Veryfi                   Open                    54
+
+
+
+566   Plug and Play            Open                  1144
+Tech Center
+
+567   #paid                    Open                  121
+
+
+
+568   DoubleVerify             Open                  1149
+
+
+
+569   kimkim                   Open                    75
+
+
+
+570   Uber                     Open                 94605
+
+
+
+571   Top Hat                  Open                  468
+
+
+
+572   Guardsquare              Open                  158
+
+
+
+573   Tropic                   Open                  358
+
+
+
+574   Otter.ai                 Open                  141
+
+
+
+575   N-able                   Open                  1698
+
+576   Newfront                  Open                  730
+
+
+
+577   Flipp                     Open                  480
+
+
+
+578   Talend                    Open                  943
+
+
+
+579   Zocdoc                    Open                  1094
+
+
+
+580   Revenue                   Open                    91
+Analytics, Inc.
+
+581   Connection                Open                  3847
+
+
+
+582   SourceWhale               Open                    72
+
+
+
+583   ConstructConn             Open                  952
+ect
+
+584   Quix                      Open                    38
+
+
+
+585   Aptiv                     Open                 28597
+
+
+
+586   Customer.io               Open                  323
+
+
+
+587   The PokÃ©mon               Open                  1783
+Company â€¦
+
+588   BuzzFeed                  Open                  1370
+
+
+
+589   LegitScript               Open                  190
+
+
+
+590   Osano                     Open                  105
+
+
+
+591   Semrush                   Open                  1906
+
+
+592   NeuraFlash               Open                  409
+
+
+
+593   Thanx                    Open                    66
+
+
+
+594   Parcel Perform           Open                  193
+
+
+
+595   Sunrun                   Open                  9414
+
+
+
+596   CMI Media                Open                  1216
+Group
+
+597   Dun &                    Open                  5542
+Bradstreet
+
+598   Figures                  Open                    66
+
+
+
+599   Consensus                Open                  247
+
+
+
+600   Invisible                Open                  1893
+
+
+
+601   DrFirst, Inc.            Open                  452
+
+
+
+602   Vendr                    Open                  313
+
+
+
+603   Expel                    Open                  493
+
+
+
+604   Zyte                     Open                  218
+
+
+
+605   Itron, Inc.              Open                  5529
+
+
+
+606   L3Harris                 Open                 28156
+Technologies
+
+607   KEYENCE                  Open                  6082
+CORPORATION
+
+
+608   CannDelta Inc. -           Open                    14
+Regulatory anâ€¦
+
+609   Arcade                     Open                    39
+
+
+
+610   Cameran -                  Open                  157
+OxBlue
+
+611   Lithic                     Open                  140
+
+
+
+612   Apex Systems               Open                 13163
+
+
+
+613   Warby Parker               Open                  2234
+
+
+
+614   Ashby                      Open                  126
+
+
+
+615   Nordcloud, an              Open                  1282
+IBM Company
+
+616   MOSTLY AI                  Open                    53
+
+
+
+617   Emburse                    Open                  897
+
+
+
+618   Orb                        Open                    39
+
+
+
+619   Provi                      Open                  285
+
+
+
+620   Hubtek                     Open                  232
+
+
+
+621   InfoSec Global             Open                    39
+
+
+
+622   Embrace                    Open                  136
+
+
+
+623   Avantor                    Open                 11745
+
+
+624   ECI Software             Open                 1266
+Solutions
+
+625   Northbeam                Open                   53
+
+
+
+626   Bestpass                 Open                 180
+
+
+
+627   iSpot.tv                 Open                 402
+
+
+
+628   Yext                     Open                 2101
+
+
+
+629   Extend                   Open                   90
+
+
+
+630   intenseye                Open                 121
+
+
+
+631   LogicManager             Open                   73
+
+
+
+632   Basis                    Open                 1380
+Technologies
+
+633   Acquia                   Open                 1185
+
+
+
+634   HG Insights              Open                 703
+
+
+
+635   AnyRoad                  Open                 310
+
+
+
+636   CarGurus                 Open                 1194
+
+
+
+637   Digital Remedy           Open                 153
+
+
+
+638   BigPanda                 Open                 347
+
+
+
+639   Built                    Open                 336
+
+
+640   Blue Yonder              Open                  6180
+
+
+
+641   ApplicantPro             Open                  301
+
+
+
+642   Multilingual             Open                    37
+Jobs Worldwide
+
+643   Nextdoor                 Open                  912
+
+
+
+644   Cloudsmith               Open                    50
+
+
+
+645   Billd                    Open                  100
+
+
+
+646   Supermetrics             Open                  390
+
+
+
+647   OpenPhone                Open                  126
+
+
+
+648   GlobalLogic              Open                 29940
+
+
+
+649   Roblox                   Open                  7609
+
+
+
+650   Progyny, Inc.            Open                  572
+
+
+
+651   Aumni                    Open                  308
+
+
+
+652   Butterfly                Open                  396
+Network, Inc.
+
+653   Coastal                  Open                  547
+
+
+
+654   Form3                    Open                  452
+
+
+
+655   Prezi                    Open                  279
+
+
+656   Interac Corp.            Open                 768
+
+
+
+657   Dealpath                 Open                   95
+
+
+
+658   TechnologyAdvi           Open                 368
+ce
+
+659   Gametime                 Open                 262
+
+
+
+660   GoodLeap                 Open                 929
+
+
+
+661   Lenus                    Open                 439
+
+
+
+662   ClassDojo                Open                 317
+
+
+
+663   Leadfeeder               Open                   69
+
+
+
+664   PerformLine              Open                   91
+
+
+
+665   Nektar.ai                Open                   49
+
+
+
+666   Cato Networks            Open                 958
+
+
+
+667   Zoox                     Open                 3199
+
+
+
+668   Blizzard                 Open                 5680
+Entertainment
+
+669   Stackline                Open                 267
+
+
+
+670   Roo                      Open                 294
+
+
+
+671   Availity                 Open                 1508
+
+
+672   CaliberMind            Open                    31
+
+
+
+673   tvScientific           Open                  108
+
+
+
+674   Tango                  Open                    66
+
+
+
+675   BrainSell              Open                    41
+
+
+
+676   PSD Citywide           Open                  120
+
+
+
+677   CodeHS                 Open                    95
+
+
+
+678   Trapp                  Open                  101
+Technology
+
+679   PDQ                    Open                  219
+
+
+
+680   Nourish                Open                  396
+
+
+
+681   Totango                Open                  130
+
+
+
+682   Paychex                Open                 17293
+
+
+
+683   VertiGIS               Open                  343
+
+
+
+684   numa                   Open                  391
+
+
+
+685   ReadMe                 Open                    66
+
+
+
+686   StrongMind             Open                  256
+
+
+
+687   Awesome                Open                  287
+Motive, Inc.
+
+
+688   MarketStar              Open                    38
+Bulgaria
+
+689   Sees Candy              Open                    36
+Shops Inc
+
+690   Covariant               Open                  166
+
+
+
+691   Picovoice               Open                    12
+
+
+
+692   Hungryroot              Open                  169
+
+
+
+693   Salem Media             Open                  1715
+Group
+
+694   ShipBob                 Open                  1115
+
+
+
+695   Hawk Ridge              Open                  356
+Systems
+
+696   adMarketplace           Open                  202
+
+
+
+697   Infor                   Open                 20399
+
+
+
+698   Prolink                 Open                  2164
+
+
+
+699   Kaleyra                 Open                  692
+
+
+
+700   MUI                     Open                    47
+
+
+
+701   Synthace                Open                    75
+
+
+
+702   Learn Amp | B           Open                    38
+Corpâ„¢
+
+703   Virtualitics            Open                  126
+#     Company         â„¢ï¸   Jobs Page   Employees
+Name
+
+704   Mux                     Open                  118
+
+
+
+705   Farm Credit             Open                  1626
+Services of â€¦
+
+706   MetLife                 Open                 39063
+
+
+
+707   Anomalo                 Open                    64
+
+
+
+708   Peloton                 Open                  3811
+Interactive
+
+709   Arhaus                  Open                  1513
+
+
+
+710   Clipboard               Open                  1690
+Health
+
+711   Prokeep                 Open                    96
+
+
+
+712   Donnelley               Open                  1909
+Financial â€¦
+
+713   Lyra Health             Open                  2280
+
+
+
+714   Glide                   Open                    74
+
+
+
+715   Apexon                  Open                  3545
+
+
+
+716   Swirlds Labs            Open                    99
+
+
+
+717   Gather                  Open                    74
+
+
+
+718   Tactacam                Open                  271
+
+
+
+719   Axonify                 Open                  277
+#     Company            â„¢ï¸   Jobs Page   Employees
+Name
+
+720   ChannelEngine              Open                  201
+
+
+
+721   ClickTime                  Open                    51
+
+
+
+722   Fluency -                  Open                    79
+Advertising â€¦
+
+723   Solv.                      Open                  129
+
+
+
+724   Zopa Bank                  Open                  745
+
+
+
+725   LMAX Group                 Open                  284
+
+
+
+726   Upside                     Open                  414
+
+
+
+727   Alegeus                    Open                  676
+
+
+
+728   FreightWaves               Open                  184
+
+
+
+729   GM Financial               Open                  8222
+
+
+
+730   Episode Six (E6)           Open                  136
+
+
+
+731   MyFitnessPal               Open                  218
+
+
+
+732   Boulevard                  Open                  312
+
+
+
+733   HCLTech                    Open             262647
+
+
+
+734   Lighthouse                 Open                  607
+
+
+
+735   Express                    Open                 13668
+Employment â€¦
+#     Company          â„¢ï¸   Jobs Page   Employees
+Name
+
+736   CGI                      Open                 66987
+
+
+
+737   Equinix                  Open                 13454
+
+
+
+738   Avicado                  Open                  109
+Construction â€¦
+
+739   Tresata                  Open                    42
+
+
+
+740   ZayZoon                  Open                  124
+
+
+
+741   WorkTango Inc.           Open                  101
+
+
+
+742   John Deere               Open                 59220
+
+
+
+743   XTM                      Open                  189
+International
+
+744   Ceribell â”‚ AI-           Open                  260
+Powered Pointâ€¦
+
+745   Relay Network            Open                  105
+
+
+
+746   Modern                   Open                  184
+Treasury
+
+747   CharterUP                Open                  196
+
+
+
+748   Reverb                   Open                  316
+
+
+
+749   connectRN                Open                  650
+
+
+
+750   Crossbeam                Open                  107
+
+
+
+751   Preply                   Open                  8149
+#     Company         â„¢ï¸   Jobs Page   Employees
+Name
+
+752   Materialize             Open                    98
+
+
+
+753   Form Energy             Open                  616
+
+
+
+754   EquipmentShar           Open                  2555
+e
+
+755   GroupA                  Open                    22
+
+
+
+756   Budderfly               Open                  253
+
+
+
+757   Eleos Health            Open                  133
+
+
+
+758   PartsTech               Open                  116
+
+
+
+759   Busuu                   Open                  344
+
+
+
+760   Chewy                   Open                 11549
+
+
+
+761   Candidate-1st           Open                    16
+
+
+
+762   Exodigo                 Open                  142
+
+
+
+763   ECS                     Open                  3587
+
+
+
+764   Insperity               Open                  5012
+
+
+
+765   Incode                  Open                  329
+
+
+
+766   Milk                    Open                    83
+Moovement
+
+767   Softdocs                Open                  130
+#     Company         â„¢ï¸   Jobs Page   Employees
+Name
+
+768   Property Meld           Open                   63
+
+
+
+769   Tailscale               Open                 132
+
+
+
+770   H1                      Open                 442
+
+
+
+771   Shawbrook               Open                 1162
+Bank
+
+772   Archive                 Open                   96
+
+
+
+773   Signals                 Open                   88
+
+
+
+774   MPB                     Open                 573
+
+
+
+775   DISCO                   Open                   77
+
+
+
+776   Black Kite              Open                 126
+
+
+
+777   IBM                     Open             306317
+
+
+
+778   VELOX Media             Open                   52
+
+
+
+779   BrightBid               Open                   70
+
+
+
+780   Attain                  Open                 117
+
+
+
+781   Cleary                  Open                   18
+
+
+
+782   Tomorrow.io             Open                 256
+
+
+
+783   Apaleo                  Open                   56
+#     Company          â„¢ï¸   Jobs Page   Employees
+Name
+
+784   Cambly Inc.              Open                  3183
+
+
+
+785   Boozt                    Open                  800
+
+
+
+786   Addigy                   Open                    77
+
+
+
+787   Birdie                   Open                  201
+
+
+
+788   PwC                      Open             286675
+
+
+
+789   Lumos                    Open                    98
+
+
+
+790   Patch                    Open                  102
+
+
+
+791   3Cloud                   Open                  764
+
+
+
+792   Booking.com              Open                 14959
+
+
+
+793   Clearco                  Open                  159
+
+
+
+794   Bluevine                 Open                  612
+
+
+
+795   Dixa                     Open                  179
+
+
+
+796   Dotdash                  Open                  2812
+Meredith
+
+797   Info-Tech                Open                  1621
+Research Group
+
+798   Slickdeals               Open                  210
+
+
+
+799   Plooto                   Open                  106
+#     Company         â„¢ï¸   Jobs Page   Employees
+Name
+
+800   Maven Clinic            Open                  992
+
+
+
+801   POLITICO                Open                  1419
+
+
+
+802   Passport                Open                  191
+
+
+
+803   Geoforce                Open                  165
+
+
+
+804   Cintas                  Open                 26185
+
+
+
+805   Abridge                 Open                    95
+
+
+
+806   McKesson                Open                 20997
+
+
+
+807   SmithRx                 Open                  347
+
+
+
+808   Pax8                    Open                  1713
+
+
+
+809   ConductorOne            Open                    67
+
+
+
+810   ANSER                   Open                  580
+
+
+
+811   Elevate                 Open                    44
+Ventures
+
+812   Uplight                 Open                  749
+
+
+
+813   Stayntouch              Open                  116
+
+
+
+814   SuccessFinder           Open                    50
+
+
+
+815   Prodigy                 Open                  273
+Education
+#     Company         â„¢ï¸   Jobs Page   Employees
+Name
+
+816   EvenUp                  Open                 324
+
+
+
+817   Zello                   Open                 133
+
+
+
+818   CoinTracker             Open                  81
+
+
+
+819   Logixboard              Open                  84
+
+
+
+820   TechInsights            Open                 457
+
+
+
+821   Tray.io                 Open                 177
+
+
+
+822   Q4                      Open                 545
+
+
+
+823   Lightico                Open                 122
+
+
+
+824   Avoma                   Open                  65
+
+
+
+825   Certn                   Open                 322
+
+
+
+826   Chef Robotics           Open                  63
+
+
+
+827   1-                      Open                 272
+800Accountant
+
+828   PayIt                   Open                 240
+
+
+
+829   Ava Labs                Open                 346
+
+
+
+830   parcelLab               Open                 175
+
+
+
+831   Snagajob                Open                 182
+#     Company           â„¢ï¸   Jobs Page   Employees
+Name
+
+832   Infinitus                 Open                 168
+Systems, Inc.
+
+833   Arcadia                   Open                 709
+
+
+
+834   Avidbots Corp.            Open                 248
+
+
+
+835   Storfund                  Open                   44
+
+
+
+836   Activision                Open                 3190
+
+
+
+837   Fusion                    Open                 512
+Worldwide
+
+838   Praetorian                Open                 150
+
+
+
+839   Petal                     Open                 327
+
+
+
+840   Allthenticate             Open                   11
+
+
+
+841   incident.io               Open                 101
+
+
+
+842   Living Security           Open                   57
+
+
+
+843   Canopy                    Open                   45
+
+
+
+844   Upraised                  Open                 114
+
+
+
+845   Acceleration              Open                 311
+Partners
+
+846   ResQ                      Open                 133
+
+
+
+847   Connatix                  Open                 172
+#     Company          â„¢ï¸   Jobs Page   Employees
+Name
+
+848   Other World              Open                  1110
+Computing
+
+849   Uptycs                   Open                  294
+
+
+
+850   Gecko Robotics           Open                  253
+
+
+
+851   Waterplan (YC            Open                    85
+S21)
+
+852   Superblocks              Open                    50
+
+
+
+853   Auror                    Open                  182
+
+
+
+854   Safran                   Open                 61787
+
+
+
+855   Alma                     Open                  1076
+
+
+
+856   FireHydrant              Open                    56
+
+
+
+857   Recurrency               Open                    31
+
+
+
+858   FundApps                 Open                  129
+
+
+
+859   Vicasso | We             Open                    40
+Accelerate â€¦
+
+860   commonsku                Open                    46
+
+
+
+861   Monte Carlo              Open                  405
+
+
+
+862   Aurora                   Open                  2120
+
+
+
+863   Figure                   Open                  438
+#     Company           â„¢ï¸   Jobs Page   Employees
+Name
+
+864   Smartcar                  Open                 127
+
+
+
+865   InvoiceCloud,             Open                 394
+Inc.
+
+866   VRChat Inc.               Open                 169
+
+
+
+867   NewtonX                   Open                 227
+
+
+
+868   Loft Orbital              Open                 238
+
+
+
+869   FLEX College              Open                   64
+Prep
+
+870   Westlake                  Open                 1188
+Financial
+
+871   Demant                    Open                 4877
+
+
+
+872   Material BankÂ®            Open                 277
+
+
+
+873   Ascend                    Open                 4848
+Learning
+
+874   Sonrai Security           Open                   85
+
+
+
+875   Credit Karma              Open                 1911
+
+
+
+876   Carbon Direct             Open                 135
+
+
+
+877   Premise                   Open                 503
+
+
+
+878   REPAIRIFY, INC.           Open                 155
+
+
+
+879   Softchoice                Open                 2645
+#     Company       â„¢ï¸   Jobs Page   Employees
+Name
+
+880   Kimoby -              Open                   41
+Dealer â€¦
+
+881   Informa               Open                 2954
+Markets
+
+882   Improbable            Open                 313
+
+
+
+883   Freestar              Open                 211
+
+
+
+884   RevenueCat            Open                   89
+
+
+
+885   Bonterra              Open                 1281
+
+
+
+886   Rose Rocket           Open                 162
+
+
+
+887   Edpuzzle              Open                 288
+
+
+
+888   New Breed             Open                 270
+
+
+
+889   The French            Open                   14
+Agency â€¦
+
+890   Trolley               Open                   92
+
+
+
+891   Union.ai              Open                   45
+
+
+
+892   Hearsay               Open                 519
+Systems
+
+893   JABU                  Open                 235
+
+
+
+894   Amplemarket           Open                 100
+
+
+
+895   Flare                 Open                   80
+#     Company           â„¢ï¸   Jobs Page   Employees
+Name
+
+896   SamCart                   Open                    98
+
+
+
+897   Vation Ventures           Open                  184
+
+
+
+898   Digital Asset             Open                  265
+
+
+
+899   Unit21                    Open                  118
+
+
+
+900   Antithesis                Open                    53
+
+
+
+901   Apploi                    Open                  123
+
+
+
+902   X, the                    Open                  840
+moonshot â€¦
+
+903   Acerta                    Open                    41
+
+
+
+904   IntelyCare                Open                  1911
+
+
+
+905   Broad Institute           Open                  3258
+of MIT and â€¦
+
+906   Candid Health             Open                    72
+
+
+
+907   SafeLease                 Open                    46
+
+
+
+908   Turing                    Open                  1981
+
+
+
+909   Appen                     Open                 19260
+
+
+
+910   ADvendio                  Open                    90
+
+
+
+911   Forward                   Open                  698
+#     Company           â„¢ï¸   Jobs Page   Employees
+Name
+
+912   Pacific                   Open                  6059
+Northwest â€¦
+
+913   Infostrux                 Open                    54
+Solutions
+
+914   Vareto                    Open                    60
+
+
+
+915   Papa                      Open                  929
+
+
+
+916   AbbVie                    Open                 51813
+
+
+
+917   Behavioral                Open                  796
+Health Group â€¦
+
+918   DexCare                   Open                  153
+
+
+
+919   SafeRide Health           Open                  194
+
+
+
+920   3Play Media               Open                  627
+
+
+
+921   Narmi                     Open                  120
+
+
+
+922   Venn                      Open                    28
+Technology
+
+923   Truveta                   Open                  318
+
+
+
+924   Strategic                 Open                  407
+Financial â€¦
+
+925   Mediafly                  Open                  173
+
+
+
+926   A.Team                    Open                  238
+
+
+
+927   Handshake                 Open                  816
+#     Company          â„¢ï¸   Jobs Page   Employees
+Name
+
+928   Intrepid                 Open                 164
+Studios, Inc
+
+929   Pulsenics Inc            Open                  24
+
+
+
+930   Archimedes               Open                   8
+
+
+
+931   The Patrick J.           Open                  26
+McGovern â€¦
+
+932   Clerk.com                Open                 119
+
+
+
+933   Snowplow                 Open                 139
+
+
+
+934   Thunkable                Open                  51
+
+
+
+935   Convertr                 Open                  48
+
+
+
+936   Nodes & Links            Open                  50
+
+
+
+937   Marqeta                  Open                 972
+
+
+
+938   Urban Jungle             Open                  96
+Insurance
+
+939   CyberCube                Open                 128
+
+
+
+940   Keeper.app               Open                  38
+
+
+
+941   Esusu                    Open                 185
+
+
+
+942   System Six               Open                  19
+
+
+
+943   Monitaur                 Open                  27
+#     Company            â„¢ï¸   Jobs Page   Employees
+Name
+
+944   Aktion                     Open                 235
+Associates, Inc.
+
+945   DirectShifts               Open                 110
+
+
+
+946   ThreeFlow                  Open                 127
+
+
+
+947   InfoTrust                  Open                 171
+
+
+
+948   OpsLevel                   Open                   56
+
+
+
+949   SixFifty                   Open                   45
+
+
+
+950   Costco IT                  Open                 719
+
+
+
+951   MarketOne                  Open                 445
+International
+
+952   Audacy, Inc.               Open                 5266
+
+
+
+953   Collective[i]              Open                   92
+
+
+
+954   Sourcewell                 Open                 286
+
+
+
+955   Yelp                       Open                 6667
+
+
+
+956   Medallion                  Open                 332
+
+
+
+957   Terzo                      Open                 133
+
+
+
+958   VETRO, Inc.                Open                   88
+
+
+
+959   Precisely                  Open                 2814
+#     Company          â„¢ï¸   Jobs Page   Employees
+Name
+
+960   Cleo                     Open                  312
+
+
+
+961   Academia.edu             Open                  230
+
+
+
+962   Pair Eyewear             Open                  134
+
+
+
+963   Nue.io                   Open                    44
+
+
+
+964   InvestNext               Open                    47
+
+
+
+965   Go1                      Open                  495
+
+
+
+966   Amazon Web               Open             125353
+Services (AWS)
+
+967   Grant Thornton           Open                 12725
+LLP (US)
+
+968   Scratch                  Open                    98
+Financial
+
+969   Promenade                Open                    76
+Group
+
+970   Boats Group              Open                  284
+
+
+
+971   Tucows                   Open                  935
+
+
+
+972   Revolut                  Open                 13872
+
+
+
+973   Magic Leap               Open                  1303
+
+
+
+974   Nuts.com                 Open                  306
+
+
+
+975   Worksighted              Open                    76
+#     Company        â„¢ï¸   Jobs Page   Employees
+Name
+
+976   TestBox                Open                   33
+
+
+
+977   Amaze                  Open                 101
+
+
+
+978   Lumafield              Open                 102
+
+
+
+979   Fenix24                Open                   89
+
+
+
+980   Synctera               Open                 115
+
+
+
+981   Bevi                   Open                 273
+
+
+
+982   Cordial                Open                 237
+
+
+
+983   Linus Health           Open                 132
+
+
+
+984   SettleMint             Open                   73
+
+
+
+985   One Medical            Open                 4425
+
+
+
+986   Clutch                 Open                 244
+
+
+
+987   Confiant Inc           Open                   44
+
+
+
+988   Pickle Robot           Open                   59
+Company
+
+989   BECU                   Open                 2474
+
+
+
+990   Nautical               Open                   30
+Commerce
+
+991   MycoWorks              Open                 214
+ #    Company             â„¢ï¸   Jobs Page   Employees
+Name
+
+992   nTop                        Open                  125
+
+
+
+993   Zuva                        Open                    25
+
+
+
+994   Fast Enterprises,           Open                  2030
+LLC
+
+995   BEMO                        Open                    56
+
+
+
+996   Hotel Engine                Open                  832
+
+
+
+997   DearDoc                     Open                  135
+
+
+
+998   Vetster                     Open                  123
+
+
+
+999   Bright                      Open                  267
+Machines
+
+1000 Plentific                    Open                  229
+
+
+
+1001 Rumble                       Open                  187
+
+
+
+1002 Cepton                       Open                    85
+
+
+
+1003 Siteline                     Open                    36
+
+
+
+1004 Paper                        Open                  1577
+
+
+
+1005 Avanade                      Open                 18746
+
+
+
+1006 Cboe Global                  Open                  1683
+Markets
+
+1007 Pixability                   Open                  100
+ #    Company         â„¢ï¸   Jobs Page   Employees
+Name
+
+1008 Klara                    Open                  104
+
+
+
+1009 Thirty Capital           Open                    33
+
+
+
+1010 Craft.co                 Open                  122
+
+
+
+1011 Chapter                  Open                  102
+
+
+
+1012 Soundstripe              Open                    72
+
+
+
+1013 Porch Group              Open                  815
+
+
+
+1014 EagleView                Open                  1202
+
+
+
+1015 Apex Group Ltd           Open                  6965
+
+
+
+1016 Zilliz                   Open                  116
+
+
+
+1017 Quora                    Open                  1280
+
+
+
+1018 Amla                     Open                  318
+Commerce â€¦
+
+1019 Spokeo                   Open                  195
+
+
+
+1020 Block                    Open                    82
+Renovation
+
+1021 Circle                   Open                  1198
+
+
+
+1022 A.P. Moller -            Open                 71080
+Maersk
+
+1023 DuckDuckGo               Open                  318
+ #   Company             â„¢ï¸   Jobs Page   Employees
+Name
+
+1024 haystack                    Open                   11
+
+
+
+1025 Momence                     Open                   85
+
+
+
+1026 Zerocater                   Open                 184
+
+
+
+1027 Guild                       Open                 1503
+
+
+
+1028 CVS Health                  Open             116817
+
+
+
+1029 Jackpocket                  Open                 175
+
+
+
+1030 Sunhero                     Open                   89
+
+
+
+1031 Wavestone                   Open                 6137
+
+
+
+1032 CG Spectrum                 Open                 188
+
+
+
+1033 Capella Space               Open                 215
+
+
+
+1034 Chicory                     Open                 132
+
+
+
+1035 Design                      Open                   73
+Interactive, Inc.
+
+1036 Woflow                      Open                 366
+
+
+
+1037 Burwood Group               Open                 263
+
+
+
+1038 InMarket                    Open                 367
+
+
+
+1039 Zencore                     Open                   55
+ #    Company           â„¢ï¸   Jobs Page   Employees
+Name
+
+1040 Mogli                      Open                    52
+
+
+
+1041 Mimica                     Open                    48
+
+
+
+1042 Certain Affinity           Open                  188
+
+
+
+1043 TALSMART                   Open                    53
+
+
+
+1044 Elephant                   Open                    26
+Energy
+
+1045 Match2one                  Open                    32
+(Now part of â€¦
+
+1046 Allied Global              Open                  646
+Marketing
+
+1047 Custom Ink                 Open                  1430
+
+
+
+1048 CONTROLTEK                 Open                    63
+
+
+
+1049 Sodexo                     Open                 82495
+
+
+
+1050 BOK Financial              Open                  6164
+
+
+
+1051 Ossium Health              Open                  101
+
+
+
+1052 Rye                        Open                    71
+
+
+
+1053 Skyscanner                 Open                  1383
+
+
+
+1054 TapMango                   Open                    53
+
+
+
+1055 Fluence                    Open                    87
+Technologies â€¦
+ #   Company          â„¢ï¸   Jobs Page   Employees
+Name
+
+1056 Paxos                    Open                  385
+
+
+
+1057 Metalab                  Open                  249
+
+
+
+1058 Lydonia                  Open                    53
+Technologies
+
+1059 Textio                   Open                  127
+
+
+
+1060 Sonendo, Inc.            Open                  161
+
+
+
+1061 Eigen Labs               Open                    64
+
+
+
+1062 Apollo                   Open                    53
+Interactive
+
+1063 Swoon                    Open                  239
+
+
+
+1064 Equi                     Open                    54
+
+
+
+1065 Clubhouse                Open                  234
+
+
+
+1066 Leankor                  Open                    11
+
+
+
+1067 IZEA                     Open                  309
+
+
+
+1068 XSELL                    Open                  137
+Technologies
+
+1069 Black & Veatch           Open                 10854
+
+
+
+1070 Grow Therapy             Open                  1326
+
+
+
+1071 UP.Partners              Open                    25
+ #    Company           â„¢ï¸   Jobs Page   Employees
+Name
+
+1072 Axe Staffing &             Open                    17
+Recruiting
+
+1073 Demand Chain               Open                    42
+
+
+
+1074 GILLIG                     Open                  513
+
+
+
+1075 the LEGO                   Open                 19486
+Group
+
+1076 Lockheed                   Open             108844
+Martin
+
+1077 Apex.AI                    Open                  118
+
+
+
+1078 Cruise                     Open                  3545
+
+
+
+1079 Torc Robotics              Open                  760
+
+
+
+1080 Umbra                      Open                  142
+
+
+
+1081 Tailored Brands,           Open                 10713
+Inc.
+
+1082 New Reach                  Open                  113
+Education
+
+1083 MAVAN                      Open                    27
+
+
+
+1084 N1 Health                  Open                    47
+
+
+
+1085 Studio Science             Open                    73
+
+
+
+1086 Fidus Systems              Open                  155
+
+
+
+1087 Reaktor                    Open                  707
+ #    Company         â„¢ï¸   Jobs Page   Employees
+Name
+
+1088 Wanderu                  Open                   36
+
+
+
+1089 SpryPoint                Open                 136
+
+
+
+1090 Voice123                 Open                 242
+
+
+
+1091 Essential AI             Open                   19
+
+
+
+1092 Stack Overflow           Open                 657
+
+
+
+1093 NuvoAir                  Open                   96
+Medical
+
+1094 Seenons                  Open                   79
+
+
+
+1095 Hopebridge               Open                 2442
+
+
+
+1096 FutureFit AI             Open                   37
+
+
+
+1097 Render                   Open                 106
+
+
+
+1098 Tyson &                  Open                 395
+Mendes
+
+1099 Super Dispatch           Open                 120
+
+
+
+1100 BMNT                     Open                   77
+
+
+
+1101 Atlantic Data            Open                   71
+Security, LLC
+
+1102 CubeLogic                Open                 152
+
+
+
+1103 Flexcar                  Open                 136
+ #   Company           â„¢ï¸   Jobs Page   Employees
+Name
+
+1104 Revivn                    Open                   86
+
+
+
+1105 THRILLWORKS               Open                   65
+
+
+
+1106 HME                       Open                 703
+
+
+
+1107 Plante Moran              Open                 4130
+
+
+
+1108 Green Irony               Open                   20
+
+
+
+1109 Ampla                     Open                 109
+
+
+
+1110 Reibus                    Open                 139
+
+
+
+1111 Visma Creditro            Open                   42
+A/S
+
+1112 Uber Freight              Open                 5142
+
+
+
+1113 Beezwax                   Open                   77
+Datatools, Inc.
+
+1114 Authorized                Open                   11
+Acquisitions
+
+1115 Audicus                   Open                   70
+
+
+
+1116 Cambridge                 Open                 297
+Systematics, â€¦
+
+1117 Genies                    Open                 239
+
+
+
+1118 CE Broker by              Open                   34
+Propelus
+
+1119 Trust Machines            Open                   34
+ #    Company        â„¢ï¸   Jobs Page   Employees
+Name
+
+1120 Binti                   Open                 101
+
+
+
+1121 Runway                  Open                   50
+
+
+
+1122 Respondent              Open                 133
+
+
+
+1123 TeamWorx                Open                   27
+Security
+
+1124 Doran Jones             Open                   56
+Inc.
+
+1125 Torch Dental            Open                 128
+
+
+
+1126 Apptegy                 Open                 387
+
+
+
+1127 The Believer            Open                   70
+Company
+
+1128 Omni Creator            Open                   44
+Products
+
+1129 Priority1               Open                 1518
+
+
+
+1130 MelodyArc               Open                   15
+
+
+
+1131 Baton                   Open                   50
+
+
+
+1132 percipient.ai           Open                   73
+
+
+
+1133 Polarsteps              Open                   58
+
+
+
+1134 Mercedes-Benz           Open                 864
+Research & â€¦
+
+1135 Aeonsemi                Open                   38
+ #    Company          â„¢ï¸   Jobs Page   Employees
+Name
+
+1136 Entegee                   Open                 413
+
+
+
+1137 Commure                   Open                 220
+
+
+
+1138 Build Staffing            Open                   5
+Group
+
+1139 Trader                    Open                 530
+Interactive
+
+1140 Kodiak                    Open                 203
+
+
+
+1141 ReachMobi                 Open                   67
+
+
+
+1142 Helium SEO                Open                   45
+
+
+
+1143 AIM Consulting            Open                 445
+Group
+
+1144 PerkSpot                  Open                 119
+
+
+
+1145 stakefish                 Open                   25
+
+
+
+1146 RxVantage                 Open                 127
+
+
+
+1147 Aquatic Capital           Open                   96
+Management
+
+1148 Color Of                  Open                   94
+Change
+
+1149 Kensho                    Open                 142
+Technologies
+
+1150 Rover.com                 Open                 8953
+
+
+
+1151 The Lacek                 Open                 311
+Group
+ #    Company         â„¢ï¸   Jobs Page   Employees
+Name
+
+1152 Sharebite                Open                   97
+
+
+
+1153 MRE Consulting           Open                 234
+
+
+
+1154 Xendoo Online            Open                   43
+Bookkeeping â€¦
+
+1155 Next Level               Open                 334
+Solutions
+
+1156 Mindex                   Open                 369
+
+
+
+1157 Traction Rec             Open                   99
+
+
+
+1158 Rebuilt                  Open                 140
+
+
+
+1159 Axuall                   Open                   78
+
+
+
+1160 Lula Group               Open                   5
+
+
+
+1161 Pointer                  Open                   24
+
+
+
+1162 Xigent                   Open                   58
+
+
+
+1163 Noise Digital            Open                   77
+
+
+
+1164 Six & Flow               Open                   52
+
+
+
+1165 PM Group                 Open                 3721
+
+
+
+1166 Lanai Software           Open                   6
+
+
+
+1167 Relevant, Healthcare               Open                   19
+
+
+Name
+
+1168 Clockwork                  Open                  73
+
+
+
+1169 Atomic Invest              Open                  46
+
+
+
+1170 SnoFox, Sciences                   Open                  14 
+
+1171 Day Zero, Diagnostics, Inc               Open                  67
+
+
+1172 Younite-AI                 Open                  90
+
+
+
+1173 Global Laser Enrichment           Open                  24
+
+
+1174 ezCater                    Open                 970
+
+
+
+1175 EvolutionIQ                Open                 166
+
+
+
+1176 Jackpot.com                Open                 151
+
+
+
+1177 Parsyl                     Open                  45
+
+
+
+1178 Wisdom                     Open                  18
+
+
+
+1179 ElevationHR, LLC            Open                  13
+
+1180 Marble                     Open                 146
+
+
+
+1181 VBeyond Corporation               Open                 644
+
+
+1182 Nebula                     Open                 122
+
+
+
+1183 Empower                    Open                  24
+Project
+
+1184 agile six             Open                  96
+
+
+
+1185 Precoa                Open                 382
+
+
+
+1186 Propel, Inc           Open                 105
+
+
+
+1187 Pontosense            Open                  25
